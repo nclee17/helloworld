@@ -1,4 +1,6 @@
-#### Python
+# Ironhack Bootcamp Pre-Course Python
+This folder is the work done in preparation to join the Ironhack Data Analytics Bootcamp. The below text is a direct copy from their fork.
+
 This directory includes a bunch of folders. Each folder is a different challenge and it contains a Jupyter Notebook file (`.ipynb`). Open the notebook file in browser. Then, follow the step-by-step instructions to solve the challenge in the interactive coding environment. 
 
 Solve the challenges following the order suggested below.

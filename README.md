@@ -14,44 +14,16 @@ The [Ironhack Prep](./02%20-%20Ironhack%20Prep) folder is a requirement for the 
 
 In addition to the assignments set by Ironhack, I was eager to try out my newly acquired skills by making little games, e.g. [Hangman](./02%20-%20Ironhack%20Prep/01%20Hangman.ipynb) and [Tic Tac Toe](./02%20-%20Ironhack%20Prep/02%20Tic%20Tac%20Toe.ipynb)<p>
 
-#### [Training](./03%20-%20Ironhack)
+#### [Bootcamp](./03%20-%20Ironhack)
 The [Ironhack](./03%20-%20Ironhack) directiory contains early works on OOP and Data Cleaning (before regex), rest of the course material has been removed in consideration for Ironhack intellectual properties.
 
 #### Projects
 A list of some of the projects done during the time at Ironhack:
-1. [Risk](https://github.com/nclee17/Ironhack_Project1_RISK)<br>
-A collaboration project with [Sandrine](https://github.com/srosamont) in making the boardgame, RISK, within 3 days after having only just completed 4 days of the bootcamp.<br><br>
-My involvements: 
-    1. Defining dictionaries for territories, continents and borders
-    2. Function for Attack and Manoeuvre stage (including the dice roll, check for winner mechanisms etc.)
-    3. Wrap up everything into one connective game() function (e.g. set up of the game, gameplay, turns mechanisms etc.)
-
-2. [Steam](./03%20-%20Ironhack/03%20Steam%20(Web%20Scraping).ipynb)<br>
-A webscraping project to create a data pipeline using requests, BeautifulSoup, json, selenium. <br> <br>
-
-3. [Drugs](https://github.com/nclee17/Drugs)<br>
-A project on personality test score and recreational drug consumption.<br> <br>
-Techniques:
-    1. Data Cleaning & Processing (numpy, pandas, sklearn)
-    2. Data Visualization (matplotlib, seaborn)
-    3. Hypothesis Testing (scipy, pingouin)
-    4. Supervised Machine Learning (statsmodels, sklearn, xgboost, catboost)
-
-4. [Anime Recommendation](https://github.com/BuenofM/Machine-Learning-Anime-Recommendation)<br>
-A collaboration project with [Manuela](https://github.com/BuenofM) from a list of anime and its user rating. <br><br>
-Techniques:
-    1. Data Cleaning & Processing (numpy, pandas, sklearn)
-    2. EDA (pandas_profiling)
-    3. Data Visualization (matplotlib, seaborn)
-    4. Unsupervised Machine Learning (sklearn, yellowbrick, fcmeans)
-    5. Superivsed Machine Learning (statsmodels, sklearn)
-
-5. [Human Activity Recognition](https://github.com/nclee17/Human-Activity-Recognition)<br>
-A project on smartphone sensor signals to identify the user's activity.<br><br>
-Techniques:
-    1. Data Processing (numpy, pandas, keras)
-    2. Data Visualization (matplotlib, mpl_toolkits, seaborn)
-    3. Deep Machine Learning (sklearn, keras)
+1. [Risk](https://github.com/nclee17/Ironhack_Project1_RISK)
+2. [Steam](https://github.com/nclee17/helloworld/blob/master/03%20-%20Ironhack/03%20Steam%20(Web%20Scraping).ipynb) - Web Scraping Project
+3. [Drugs](https://github.com/nclee17/Drugs) - Data Visualization, Hypothesis Testing and Supervised Machine Learning Project
+4. [Anime Recommendation](https://github.com/BuenofM/Machine-Learning-Anime-Recommendation) - Unsupervised and Supervised Machine Learning Project
+5. [Human Activity Recognition](https://github.com/nclee17/Human-Activity-Recognition) - Deep Learning CNN LSTM Project
 
 ## The Journey
 Equipped with the new skills, it is time to leave the comfort of home (Ironhack) and explore the world.
